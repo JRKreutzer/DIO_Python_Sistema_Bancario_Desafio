@@ -1,4 +1,4 @@
-# Menu Bancário
+# Sistema Bancário
 
 Este é um código desenvolvido como parte do desafio proposto pelo Bootcamp Python Backend da Digital Innovation One. Trata-se de um programa simples de console em Python que simula algumas operações bancárias básicas, como depósito, saque e verificação de extrato.
 
