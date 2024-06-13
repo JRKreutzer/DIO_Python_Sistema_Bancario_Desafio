@@ -15,7 +15,7 @@ Este é um código desenvolvido como parte do desafio proposto pelo Bootcamp Pyt
 
 ## Como Usar
 
-1. Clone este repositório ou faça o download do arquivo `menu_bancario.py`.
+1. Clone este repositório ou faça o download do arquivo `sistema_bancario.py`.
 2. Abra um terminal ou prompt de comando.
 3. Navegue até o diretório onde o arquivo `sistema_bancario.py` está localizado.
 4. Execute o seguinte comando: python sistema_bancario.py
